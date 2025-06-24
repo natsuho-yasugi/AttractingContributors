@@ -2,3 +2,4 @@
 
 # List of shopping
 Macbook ￥330,000
+Hair removal ￥430,000
